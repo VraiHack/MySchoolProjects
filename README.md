@@ -7,16 +7,16 @@ Here you can found my personnel researches or Projects that i have been done in 
 - Electromechanical billard table for disabled people  (Java android application, C, Arduino Kits):  
   https://www.youtube.com/watch?v=8rKsrSCCWYE
   
-- Decoding radio messages of the layer3 protocols In GSM, UMTS and LTE
+- Decoding radio messages of the layer3 protocols In GSM, UMTS and LTE  
   https://www.scribd.com/document/360213237/Decoding-radio-messages-of-the-layer3-protocols-In-GSM-UMTS-and-LTE-Networks
   
-- Camera system for fire detection  (Matlab image processing):
-  https://www.scribd.com/document/360524657/Fire-detection-using-MATALB-image-processing
+- Camera system for fire detection  (Matlab image processing):  
+  https://www.scribd.com/document/360524657/Fire-detection-using-MATALB-image-processing  
 
-- La sûreté de fonctionnement Et L’analyse des modes de défaillance matériels et logiciels:
+- La sûreté de fonctionnement Et L’analyse des modes de défaillance matériels et logiciels:  
   https://www.scribd.com/document/360213384/La-surete-de-fonctionnement-Et-L-analyse-des-modes-de-defaillance-materiels-et-logiciels
 
-- Planification et optimisation des sites de la 3ème et 4ème génération
+- Planification et optimisation des sites de la 3ème et 4ème génération  
   https://www.scribd.com/document/269895065/Planification-et-optimisation-des-sites-de-la-3eme-et-4eme-generation
 
 
