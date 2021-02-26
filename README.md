@@ -4,7 +4,7 @@ Here you can found my personnel researches or Projects that i have been done in 
 
 **School projects (Central Nantes + Antonine University):**
 
-- Electromechanical billard table for disabled people  (Java android application, C, Arduino Kits):
+- Electromechanical billard table for disabled people  (Java android application, C, Arduino Kits):  
   https://www.youtube.com/watch?v=8rKsrSCCWYE
   
 - Decoding radio messages of the layer3 protocols In GSM, UMTS and LTE
@@ -22,25 +22,25 @@ Here you can found my personnel researches or Projects that i have been done in 
 
 **Small Researches & Projects:**
 
-- Ethical Hacking (300 pages):
+- Ethical Hacking (300 pages):  
   *Link comming soon
   
-- Pentest Report:
+- Pentest Report:  
   https://github.com/hassan-salloum/PentestReport
   
-- Nmap cheat sheet:
+- Nmap cheat sheet:  
   https://www.scribd.com/document/448607461/Nmap-Cheat-Sheet
 
-- IoT Resume:
-  Version 1.0: https://www.scribd.com/document/405623548/IoT-resume
+- IoT Resume:  
+  Version 1.0: https://www.scribd.com/document/405623548/IoT-resume  
  *Version 1.1 will come soon
 
-- FPGA Game (VGA module implementation, VHDL Language):
+- FPGA Game (VGA module implementation, VHDL Language):  
   https://github.com/hassan-salloum/FPGA_VGA
 
-- Home automation system: smart outlet, irrigation system, AC system, lamps  (C, Java, Arduino kits):
+- Home automation system: smart outlet, irrigation system, AC system, lamps  (C, Java, Arduino kits):  
   https://studio.youtube.com/channel/UCXWKMNry7bWUr-4S0RnuX7w/videos
   
-- Remote control car:
+- Remote control car:  
   https://www.youtube.com/watch?v=g5nBIqvin1o
 
