@@ -5,8 +5,8 @@ Here you can found my personnel researches or Projects that i have been done in 
 **School projects (Central Nantes + Antonine University):**
 
 - Electromechanical billard table for disabled people  (Java android application, C, Arduino Kits):  
-  https://www.youtube.com/watch?v=8rKsrSCCWYE
-  
+  <a class="link-gray" href="https://www.youtube.com/watch?v=8rKsrSCCWYEl">link-gray</a>
+
 - Decoding radio messages of the layer3 protocols In GSM, UMTS and LTE  
   https://www.scribd.com/document/360213237/Decoding-radio-messages-of-the-layer3-protocols-In-GSM-UMTS-and-LTE-Networks
   
