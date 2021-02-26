@@ -1,5 +1,3 @@
-.bg-yellow-light
-$bg-yellow-light
 
 # Welcome to my work, 
 
@@ -22,6 +20,9 @@ Here you can found my personnel researches or Projects that i have been done in 
 - Planification et optimisation des sites de la 3ème et 4ème génération  
   https://www.scribd.com/document/269895065/Planification-et-optimisation-des-sites-de-la-3eme-et-4eme-generation
 
+<div class="text-blue mb-2">
+  .text-blue on white
+</div>
 
 **Small Researches & Projects:**
 
