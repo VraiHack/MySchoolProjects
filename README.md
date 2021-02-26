@@ -3,7 +3,7 @@
 
 Here you can found my personnel researches or Projects that i have been done in these field : IoT, FPGA, Embedded System, CyberSecurity, Radio Telecommunication
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **School projects (Central Nantes + Antonine University):**
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **School projects (Central Nantes + Antonine University):**
 
 - Electromechanical billard table for disabled people  (Java android application, C, Arduino Kits):  
   https://www.youtube.com/watch?v=8rKsrSCCWYEl
@@ -21,7 +21,7 @@ Here you can found my personnel researches or Projects that i have been done in 
   https://www.scribd.com/document/269895065/Planification-et-optimisation-des-sites-de-la-3eme-et-4eme-generation
 
 
-**Small Researches & Projects:**
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)**Small Researches & Projects:**
 
 - Ethical Hacking (300 pages):  
   *Link comming soon
