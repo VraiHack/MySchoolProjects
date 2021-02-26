@@ -3,7 +3,7 @@
 
 Here you can found my personnel researches or Projects that i have been done in these field : IoT, FPGA, Embedded System, CyberSecurity, Radio Telecommunication
 
-**School projects (Central Nantes + Antonine University):**
+![#f03c15]**School projects (Central Nantes + Antonine University):**
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 
