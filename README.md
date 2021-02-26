@@ -1,12 +1,11 @@
+.bg-yellow-light
+$bg-yellow-light
+
 # Welcome to my work, 
 
 Here you can found my personnel researches or Projects that i have been done in these field : IoT, FPGA, Embedded System, CyberSecurity, Radio Telecommunication
 
 **School projects (Central Nantes + Antonine University):**
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
-
 
 - Electromechanical billard table for disabled people  (Java android application, C, Arduino Kits):  
   https://www.youtube.com/watch?v=8rKsrSCCWYEl
