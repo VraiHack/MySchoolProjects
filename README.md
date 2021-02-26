@@ -24,7 +24,10 @@ Here you can found my personnel researches or Projects that i have been done in 
 
 - Ethical Hacking (300 pages):
   *Link comming soon
-
+  
+- Pentest Report:
+  https://github.com/hassan-salloum/PentestReport
+  
 - Nmap cheat sheet:
   https://www.scribd.com/document/448607461/Nmap-Cheat-Sheet
 
