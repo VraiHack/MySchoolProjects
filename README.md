@@ -3,9 +3,9 @@
 
 Here you can found my personnel researches or Projects that i have been done in these field : IoT, FPGA, Embedded System, CyberSecurity, Radio Telecommunication
 
-![#f03c15]**School projects (Central Nantes + Antonine University):**
+**School projects (Central Nantes + Antonine University):**
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
+<font color="red">Status: **Not yet implemented**</font>
 
 - Electromechanical billard table for disabled people  (Java android application, C, Arduino Kits):  
   https://www.youtube.com/watch?v=8rKsrSCCWYEl
