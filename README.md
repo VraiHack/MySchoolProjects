@@ -40,7 +40,7 @@ Here you can found my personnel researches or Projects that i have been done in 
   *https://github.com/hassan-salloum/FPGA_VGA*
 
 - Home automation system: smart outlet, irrigation system, AC system, lamps  (C, Java, Arduino kits):  
-  *https://studio.youtube.com/channel/UCXWKMNry7bWUr-4S0RnuX7w/videos*
+  *https://www.youtube.com/watch?v=QLqHIe0b0QI*
   
 - Remote control car:  
   *https://www.youtube.com/watch?v=g5nBIqvin1o*
