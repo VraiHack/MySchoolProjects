@@ -3,7 +3,7 @@
 Here you can found my personnel researches or Projects that i have been done in these field : IoT, FPGA, Embedded System, CyberSecurity, Radio Telecommunication
 
 **School projects (Central Nantes + Antonine University):**
-<div class="text-purple">This text is purple</div>
+<div class="text-purple">This text is purple, <class="text-inherit"></div>
 
 
 - Electromechanical billard table for disabled people  (Java android application, C, Arduino Kits):  
