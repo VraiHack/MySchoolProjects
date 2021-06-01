@@ -7,7 +7,7 @@ also you can check my project on my instagram_Lab:  https://www.instagram.com/mi
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **Small Researches & Projects:**
 
 - Ethical Hacking (300 pages):  
-  *Link comming soon*
+  *work in progress*
   
 - Pentest Report:  
   *https://github.com/hassan-salloum/PentestReport*
