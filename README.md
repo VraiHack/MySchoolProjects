@@ -9,6 +9,9 @@ also you can check my project on my instagram_Lab:  https://www.instagram.com/mi
 - Ethical Hacking (300 pages):  
   *work in progress*
   
+ - Ethical Hacking (300 pages):  
+  *https://github.com/hassan-salloum/CheatSheet-Pentester* 
+  
 - Pentest Write-up:  
   *https://github.com/hassan-salloum/PentestReport*
   
