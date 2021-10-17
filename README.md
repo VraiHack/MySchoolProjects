@@ -9,6 +9,9 @@ also you can check my project on my instagram_Lab:  https://www.instagram.com/mi
 - Ethical Hacking (300 pages):  
   *work in progress*
   
+- CheatSheet Pentester
+  *https://github.com/hassan-salloum/CheatSheet-Pentester*
+  
 - InvokeReflective-Ncat
   *https://github.com/hassan-salloum/InvokeReflective-Ncat*
   
@@ -23,7 +26,6 @@ also you can check my project on my instagram_Lab:  https://www.instagram.com/mi
 
 - IoT Resume:  
   Version 1.0: *https://www.scribd.com/document/405623548/IoT-resume*  
- *Version 1.1 will come soon
 
 - FPGA Game (VGA module implementation, VHDL Language):  
   *https://github.com/hassan-salloum/FPGA_VGA*
