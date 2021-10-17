@@ -9,10 +9,10 @@ also you can check my project on my instagram_Lab:  https://www.instagram.com/mi
 - Ethical Hacking (300 pages):  
   *work in progress*
   
-- CheatSheet Pentester
+- CheatSheet Pentester:
   *https://github.com/hassan-salloum/CheatSheet-Pentester*
   
-- InvokeReflective-Ncat
+- InvokeReflective-Ncat:
   *https://github.com/hassan-salloum/InvokeReflective-Ncat*
   
 - Pentest Cheatsheet (eLearnSecurity: eJPT-eCPPTV-eCPTX):  
