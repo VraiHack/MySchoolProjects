@@ -1,27 +1,11 @@
 
 # Welcome In My Work
 
-Here you can found my personnel researches or Projects that i have been done in these field : IoT, FPGA, Embedded System, CyberSecurity, Radio Telecommunication.
-also you can check my project on my instagram_Lab:  https://www.instagram.com/mic.tec/ 
+Here you can found so old publiahs in the: IoT, FPGA, Embedded System, CyberSecurity, Radio Telecommunication.
 
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **Small Researches & Projects:**
 
-- Ethical Hacking (300 pages):  
-  *work in progress*
-  
-- CheatSheet Pentester:
-  *https://github.com/hassan-salloum/CheatSheet-Pentester*
-  
-- InvokeReflective-Ncat:
-  *https://github.com/hassan-salloum/InvokeReflective-Ncat*
-  
-- Pentest Cheatsheet (eLearnSecurity: eJPT-eCPPTV-eCPTX):  
-  *https://github.com/hassan-salloum/CheatSheet-Pentester* 
-  
-- Pentest Write-up:  
-  *https://github.com/hassan-salloum/PentestReport*
-  
-- Nmap cheat sheet:  
+  - Nmap cheat sheet:  
   *https://www.scribd.com/document/448607461/Nmap-Cheat-Sheet*
 
 - IoT Resume:  
