@@ -1,7 +1,7 @@
 
 # oldPublish
 
-Here you can found so old publiahs in the: IoT, FPGA, Embedded System, CyberSecurity, Radio Telecommunication.
+Here you can found some old publish in the: IoT, FPGA, Embedded System, CyberSecurity, Radio Telecommunication.
 
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **Small Researches & Projects:**
 
