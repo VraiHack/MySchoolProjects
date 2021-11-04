@@ -9,9 +9,6 @@
   IoT Resume:  
   https://www.scribd.com/document/405623548/IoT-resume  
 
-  FPGA Game (VGA module implementation, VHDL Language):  
-  https://github.com/hassan-salloum/FPGA_VGA
-
   Home automation system: smart outlet, irrigation system, AC system, lamps  (C, Java, Arduino kits):  
   https://www.youtube.com/watch?v=QLqHIe0b0QI
   
