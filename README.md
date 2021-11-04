@@ -1,9 +1,9 @@
 
 ### Here you can found some old publish in the: IoT, FPGA, Embedded System, CyberSecurity, Radio Telecommunication.
 ```diff
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **Small Researches & Projects:**
++ **Small Researches & Projects:**
 
-  - Nmap cheat sheet:  
+  Nmap cheat sheet:  
   *https://www.scribd.com/document/448607461/Nmap-Cheat-Sheet*
 
 - IoT Resume:  
