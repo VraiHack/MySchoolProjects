@@ -1,13 +1,13 @@
 
-### Here you can found some old publish in the: IoT, FPGA, Embedded System, CyberSecurity, Radio Telecommunication.
+### 📚 Here you can found some old publish in the: IoT, FPGA, Embedded System, CyberSecurity, Radio Telecommunication.
 ```diff
 + Small Researches & Projects:
 
-  Nmap cheat sheet:  
+  Nmap cheat sheet: 
   https://www.scribd.com/document/448607461/Nmap-Cheat-Sheet
 
   IoT Resume:  
-  Version 1.0: *https://www.scribd.com/document/405623548/IoT-resume  
+  https://www.scribd.com/document/405623548/IoT-resume  
 
   FPGA Game (VGA module implementation, VHDL Language):  
   https://github.com/hassan-salloum/FPGA_VGA
