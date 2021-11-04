@@ -16,7 +16,7 @@
   https://www.youtube.com/watch?v=QLqHIe0b0QI
   
   Remote control car:  
-  *https://www.youtube.com/watch?v=g5nBIqvin1o
+  https://www.youtube.com/watch?v=g5nBIqvin1o
 ```  
 ```diff 
 - School projects (Central Nantes + Antonine University):
