@@ -1,7 +1,7 @@
 
 ### 📚 Here you can found my olds publishs that i have done in these domains: IoT, FPGA, Embedded System, CyberSecurity, Radio Telecommunication.
 ```diff
-+ Small Researches & Projects:
++ Personnal Researches & Projects:
 
   Nmap cheat sheet: 
   https://www.scribd.com/document/448607461/Nmap-Cheat-Sheet
