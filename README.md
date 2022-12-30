@@ -3,7 +3,8 @@
 ```diff
 + Personnal Researches & Projects:
 
-  Nmap cheat sheet: [ClickMe,https://www.scribd.com/document/448607461/Nmap-Cheat-Sheet]
+  Nmap cheat sheet:
+  <a href="https://www.google.com/" target="_blank">Google</a>
   https://www.scribd.com/document/448607461/Nmap-Cheat-Sheet
 
   IoT Resume:  
