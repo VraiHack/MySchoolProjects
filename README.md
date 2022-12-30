@@ -4,7 +4,7 @@
 + Personnal Researches & Projects:
 
   Nmap cheat sheet:
-  <a href="https://www.google.com/" target="_blank">Google</a>
+  Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile.
   https://www.scribd.com/document/448607461/Nmap-Cheat-Sheet
 
   IoT Resume:  
