@@ -1,18 +1,12 @@
-
-### 📚 Here you can found my publishs/researches that i have done in these domains: IoT, FPGA, Embedded System, CyberSecurity, Radio Telecommunication.
-
-## Personnal Researches & Projects:
-
-  Nmap cheat sheet: [Link](https://www.scribd.com/document/448607461/Nmap-Cheat-Sheet)
-  
-  IoT Resume: [Link](https://www.scribd.com/document/405623548/IoT-resume)
-  
-  Home automation system: smart outlet, irrigation system, AC system, lamps  (C, Java, Arduino kits): [Link](https://www.youtube.com/watch?v=QLqHIe0b0QI)
-  
-  Remote control car: [Link]( https://www.youtube.com/watch?v=g5nBIqvin1o)
+### Personnal Researches & Projects:
+-------------------------------------------------------------------------------------------------------------------------------
+- Nmap cheat sheet: [Link](https://www.scribd.com/document/448607461/Nmap-Cheat-Sheet)
+- IoT Resume: [Link](https://www.scribd.com/document/405623548/IoT-resume) 
+- Home automation system: smart outlet, irrigation system, AC system, lamps  (C, Java, Arduino kits): [Link](https://www.youtube.com/watch?v=QLqHIe0b0QI) 
+- Remote control car: [Link]( https://www.youtube.com/watch?v=g5nBIqvin1o)
    
-## School projects (Central Nantes + Antonine University):
-
+### School projects (Central Nantes + Antonine University):
+-------------------------------------------------------------------------------------------------------------------------------
   Electromechanical billard table for disabled people  (Java android application, C, Arduino Kits): [Link](https://www.youtube.com/watch?v=8rKsrSCCWYEl)
   
   Decoding radio messages of the layer3 protocols In GSM, UMTS and LTE: [Link](https://www.scribd.com/document/360213237/Decoding-radio-messages-of-the-layer3-protocols-In-GSM-UMTS-and-LTE-Networks)
